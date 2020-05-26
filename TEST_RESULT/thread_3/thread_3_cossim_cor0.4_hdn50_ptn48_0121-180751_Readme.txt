@@ -1,0 +1,15 @@
+thread : 1
+系列の長さ：16
+success_len : 16
+想起成功率：1.0
+
+thread : 2
+系列の長さ：16
+success_len : 16
+想起成功率：1.0
+
+thread : 3
+系列の長さ：16
+success_len : 16
+想起成功率：1.0
+
